@@ -1,0 +1,9 @@
+{
+  "name": "com.mame2an.videocube",
+  "displayName": "VideoCube (Avatar Video Texture Tool)",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "vpmDependencies": { "com.vrchat.avatars": "^3.7.0" },
+  "url": "https://github.com/MametaroGG/VideoCube/releases/download/0.1.0/com.mame2an.videocube-0.1.0.zip",
+  "description": "MP4→PNG→Texture2DArray、FX/EX自動化、音声同期。"
+}
